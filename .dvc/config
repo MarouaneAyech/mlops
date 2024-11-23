@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://1GgVmCWof9BuGaPwcTxkXo8vAHicm52RH
+    gdrive_service_account_json_file_path = ../auth/lexical-aquifer-434118-u6-87bd5b88d6c8.json
+    gdrive_use_service_account = true
